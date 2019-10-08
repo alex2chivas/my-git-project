@@ -19,5 +19,15 @@ this will add everything
 git add my_file.py
 this adds specific file
 ------------
---
+-To Commit the file-
+git commit -m "add message"
+-------------
+-Creat repository in Github-
+ex : git remote add origin https://github.com/alex2chivas/my-git-project
+.git
+-check remotes 
+git remote -v
+-------------
+-Push items-
+ex : git push -u origin master
 '''
