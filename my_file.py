@@ -1,7 +1,13 @@
 print ('Hi Git')
 
-
-
+'''
+removing git
+setting = **/.git
+----------
+- If you get error status after you used .gitignore file-
+git rm -r --cached .
+removes all local cache changes 
+'''
 '''
 -START-
 git init
