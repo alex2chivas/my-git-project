@@ -36,4 +36,7 @@ git remote -v
 -------------
 -Push items-
 ex : git push -u origin master
+-------------
+-Pull items-
+git pull
 '''
