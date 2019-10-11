@@ -1,5 +1,7 @@
 print ('Hi Git')
 
+print('Hi from another dev')
+
 '''
 removing git
 setting = **/.git
