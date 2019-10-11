@@ -43,4 +43,7 @@ git branch
 ----------------
 -Switching and creating New Branch-
 git checkout -b readme-styling
+-----------------
+- Merging Branches-
+git merge readme-styling
 '''
