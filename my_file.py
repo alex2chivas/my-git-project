@@ -1,6 +1,6 @@
 print ('Hi Git')
 
-print('Hi from another dev')
+print('Hi from another person')
 
 '''
 removing git
