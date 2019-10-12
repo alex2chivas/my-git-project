@@ -3,7 +3,7 @@ print ('Hi Git')
 print('Hi from another person')
 
 def hi_there():
-    print("hi")
+    print("My local change")
 
 def greet_again():
     return "Bye"
