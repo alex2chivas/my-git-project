@@ -64,4 +64,15 @@ git stash list
 git stash show
 git stash apply
 git stash clear
+------------------------------------
+--- Fetches data from Github------
+----git Fetch
+This creates diverged from local branch and oirigin/master in this case
+and did not pull anything from Github
+-Best Practice to Merge them-
+---git merge origin/master
+leave notes
+Then....
+----git push
+-------------------------------------
 '''
