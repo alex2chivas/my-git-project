@@ -46,4 +46,7 @@ git checkout -b readme-styling
 -----------------
 - Merging Branches-
 git merge readme-styling
+
+---------------------
+-Pushing another branch to Github-
 '''
