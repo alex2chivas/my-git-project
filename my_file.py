@@ -5,6 +5,8 @@ print('Hi from another person')
 def hi_there():
     print("hi")
 
+def greet_again():
+    return "Bye"
 
 def my_function ():
     return 'hi'
