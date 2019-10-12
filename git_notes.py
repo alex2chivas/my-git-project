@@ -75,4 +75,12 @@ leave notes
 Then....
 ----git push
 -------------------------------------
+---- Deleting local Branch----
+--git branch -d {name of branch}
+check branch
+git branch
+----Deleting remote Branch---
+git push origin --delete {name of the branch}
+
+----------------------------------
 '''
