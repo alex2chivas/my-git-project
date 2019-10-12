@@ -49,4 +49,12 @@ git merge readme-styling
 
 ---------------------
 -Pushing another branch to Github-
+git push -u origin another-feature
+origin is the name if the remote
+this reprsents the up stream
+
+-----------------------
+-Rebasing-
+git rebase master
+git rebase master {name of repository}
 '''
