@@ -1,6 +1,6 @@
 # My Git Prjoect
 
-> My code for the get project
+> My scary merge conflict code
 
 ## I'm in the featured Branch
 
