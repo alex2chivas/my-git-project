@@ -57,4 +57,10 @@ this reprsents the up stream
 -Rebasing-
 git rebase master
 git rebase master {name of repository}
+-------------------------
+- Stashing new code or notes on Git without Commit-
+git stash
+git stash list 
+git stash show
+git stash apply
 '''
