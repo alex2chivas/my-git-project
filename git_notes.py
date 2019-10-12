@@ -63,4 +63,5 @@ git stash
 git stash list 
 git stash show
 git stash apply
+git stash clear
 '''
