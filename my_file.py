@@ -3,8 +3,7 @@ print ('Hi Git')
 print('Hi from another person')
 
 def hi_there():
-    print("Update python with merge conflict")
-
+    print("hi")
 
 def greet_again():
     return "Bye"
