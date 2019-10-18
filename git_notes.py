@@ -94,4 +94,18 @@ git checkout .
 rm {name of directory}
 since it is untracked file
 -------------------------------
+---- Reverting to a previous file--------
+git log
+to navitgate through log
+j and k and also shift G to move all the way down
+and q to exit
+-next-
+copy commit
+-then
+git check { paste commit } -- { path of the file }
+-then
+- git add .
+-git commit -m
+-git push
+-----------------------
 '''
