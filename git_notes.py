@@ -83,4 +83,15 @@ git branch
 git push origin --delete {name of the branch}
 
 ----------------------------------
+----- Looking at Changes -----
+git diff {name of file}
+ex : git diff one.js
+------------------------------
+---- Removing changes --------
+git checkout .
+-------------------------------
+--- Removing a file before git commit----
+rm {name of directory}
+since it is untracked file
+-------------------------------
 '''
