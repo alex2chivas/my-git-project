@@ -102,7 +102,7 @@ and q to exit
 -next-
 copy commit
 -then
-git check { paste commit } -- { path of the file }
+git checkout { paste commit } -- { path of the file }
 -then
 - git add .
 -git commit -m
