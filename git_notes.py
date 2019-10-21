@@ -113,4 +113,10 @@ git checkout { paste commit } -- { path of the file }
 -- This will make a new branch and change all the files to that point in time
 -Deleting the branch
 git branch -d {name of branch}
+---------------------------
+---- Reseting an entire project and delete all commits-
+- git reset --hard {add commit}
+--- Forcing content to github---
+git push -f origin master
+----------------------------
 '''
