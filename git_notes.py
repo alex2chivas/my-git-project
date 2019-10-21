@@ -108,4 +108,9 @@ git checkout { paste commit } -- { path of the file }
 -git commit -m
 -git push
 -----------------------
+---- Creating a new branch with the current version of commmit -----
+- git checkout 3c0829c4ce4131872cb0dbc3875ef2f13fd71e69 -b {name of the new branch}
+-- This will make a new branch and change all the files to that point in time
+-Deleting the branch
+git branch -d {name of branch}
 '''
